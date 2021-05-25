@@ -45,3 +45,4 @@ if (PORT) {
 } else {
   console.log("===== ERROR ====\nCREATE A .env FILE!\n===== /ERROR ====");
 }
+
